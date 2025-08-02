@@ -66,7 +66,7 @@ const zokouEnv = {
   AUTO_DOWNLOAD_STATUS: "no",
 
   // Display name of your bot
-  BOT_NAME: "Zokou-MD",
+  BOT_NAME: "LAZYMIKE-MD",
 
   // Visual theme for the bot menus (predefined name or media links)
   MENU_THEME: "LUFFY",
@@ -81,16 +81,16 @@ const zokouEnv = {
   PRESENCE: "1",
 
   // Your display name (owner's name)
-  OWNER_NAME: "Djalega++",
+  OWNER_NAME: "MIKE IS LAZY",
 
   // Your phone number in international format
-  OWNER_NUMBER: "228 XX XX XX XX",
+  OWNER_NUMBER: "2347083967867",
 
   // Number of warnings before a user is sanctioned
   WARN_COUNT: 3,
 
   // If "yes", the bot sends a welcome message on startup
-  STARTING_BOT_MESSAGE: "yes",
+  STARTING_BOT_MESSAGE: "no",
 
   // If "yes", the bot automatically replies to private messages
   PM_CHATBOT: "no",
@@ -114,7 +114,7 @@ const zokouEnv = {
   SERVER: "vps",
 
   // Sticker pack name used by the bot
-  STICKER_PACKNAME: "made with ❤; Zokou-MD",
+  STICKER_PACKNAME: "made with ❤; MICKEY-MD",
 };
 
 //////////////////////////////////////////////////////////////////////////////////////////////
